@@ -15,7 +15,7 @@ public class MaximumFinder {
       double number3 = input.nextDouble(); // read third double
 
       // determine the maximum value
-      double result = maximum(number1, number2, number3); 
+      double result = maximum(number12, number2, number3); 
 
       // display maximum value 
       System.out.println("Maximum is: " + result);
